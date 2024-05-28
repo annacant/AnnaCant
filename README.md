@@ -12,7 +12,7 @@ I'm Anna Cantiello, a passionate UI and UX designer with a knack for crafting en
 <li><strong>Adobe Creative Suite:</strong> Expertise in tools like Photoshop, Illustrator, and XD for design and prototyping.</li>
 </ul>
 
-<h3 align="left">Let's Connect!🤝🏼:</h3>
+<h3 align="left">Let's Connect!🤝🏼</h3>
 <p align="left">
 <a href="https://instagram.com/anna.cantiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anna.cantiello" height="30" width="40" /></a>
 </p>
