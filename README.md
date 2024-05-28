@@ -14,7 +14,9 @@ I'm Anna Cantiello, a passionate UI and UX designer with a knack for crafting en
 
 <h3 align="left">Let's Connect!🤝🏼</h3>
 <p align="left">
+<a href="https://linkedin.com/in/anna cantiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna cantiello" height="30" width="40" /></a>
 <a href="https://instagram.com/anna.cantiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anna.cantiello" height="30" width="40" /></a>
+<a href="https://www.behance.net/anna cantiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anna cantiello" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
