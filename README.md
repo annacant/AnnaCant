@@ -1,6 +1,15 @@
 ## About me 🥑
 I'm Anna Cantiello, a passionate UI and UX designer with a knack for crafting engaging and intuitive user experiences. With a background in front-end development, I bring a unique blend of design and technical skills to the table. I love bringing ideas to life through clean, modern interfaces that prioritize user satisfaction.
 
+
+## My Skills 👩🏽‍💻
+UI/UX Design: Creating visually appealing and user-friendly interfaces that enhance user experience.
+Prototyping: Translating concepts into interactive prototypes for effective communication and testing.
+Front-End Development: SwiftUI and SpriteKit, utilized for creating and managing animations efficiently
+Responsive Design: Ensuring seamless experiences across various devices and screen sizes.
+User Research: Conducting user interviews, surveys, and usability testing to inform design decisions.
+Adobe Creative Suite: Expertise in tools like Photoshop, Illustrator, and XD for design and prototyping.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anna.cantiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anna.cantiello" height="30" width="40" /></a>
