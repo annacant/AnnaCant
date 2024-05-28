@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me 🥑
+I'm Anna Cantiello, a passionate UI and UX designer with a knack for crafting engaging and intuitive user experiences. With a background in front-end development, I bring a unique blend of design and technical skills to the table. I love bringing ideas to life through clean, modern interfaces that prioritize user satisfaction.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
