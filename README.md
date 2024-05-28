@@ -4,7 +4,7 @@ I'm Anna Cantiello, a passionate UI and UX designer with a knack for crafting en
 
 ## My Skills 👩🏽‍💻
 <ul>
-<li>UI/UX Design: Creating visually appealing and user-friendly interfaces that enhance user experience.</li>
+<li><strong>UI/UX Design:</strong> Creating visually appealing and user-friendly interfaces that enhance user experience.</li>
 <li>Prototyping: Translating concepts into interactive prototypes for effective communication and testing.</li>
 <li>Front-End Development: SwiftUI and SpriteKit, utilized for creating and managing animations efficiently</li>
 <li>Responsive Design: Ensuring seamless experiences across various devices and screen sizes.</li>
